@@ -5373,7 +5373,7 @@ JOURNEY.</xsd:documentation>
 	<!-- ======================================================================= -->
 	<xsd:group name="VehicleTypePropertiesGroup">
 		<xsd:annotation>
-			<xsd:documentation>Prooprty Elements for a VEHICLE TYPE.</xsd:documentation>
+			<xsd:documentation>Property Elements for a VEHICLE TYPE.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:sequence>
 			<xsd:element name="SelfPropelled" type="xsd:boolean" default="true" minOccurs="0">
